@@ -37,9 +37,14 @@ a:hover {
 	color: brown;
 }
 
-img {
+#pdp{
 	width: 100px;
 	border-radius: 50%;
+}
+
+#illu{
+	width: 300px;
+	
 }
 
 ul {
